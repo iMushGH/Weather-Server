@@ -9,6 +9,7 @@ body {
 }
 .main {
   flex-grow: 1;
+  padding: 1rem;
 }
 
 form {
@@ -45,6 +46,11 @@ button {
   color: white;
   border-radius: 2px;
   cursor: pointer;
+}
+
+header {
+  border-top: 1px solidrgb(91, 91, 91);
+  margin-button: 16px;
 }
 
 footer {
